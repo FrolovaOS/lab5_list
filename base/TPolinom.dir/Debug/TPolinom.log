@@ -1,0 +1,18 @@
+﻿  TPolinom.cpp
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(327,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(328,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(329,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,20): warning C4101: Z: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,13): warning C4101: Y: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,16): warning C4101: Y1: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,9): warning C4101: X1: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,23): warning C4101: Z1: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(484,6): warning C4101: X: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(583,17): warning C4101: coef1: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(583,9): warning C4101: newcoef: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(583,24): warning C4101: coef2: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(582,6): warning C4101: power1: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(582,14): warning C4101: power2: неиспользованная локальная переменная
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(211): warning C4715: TPolinom::Integration: значение возвращается не при всех путях выполнения
+C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp(322): warning C4715: TPolinom::Derivative: значение возвращается не при всех путях выполнения
+  TPolinom.vcxproj -> C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\Debug\TPolinom.exe

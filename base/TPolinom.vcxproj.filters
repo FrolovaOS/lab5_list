@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TMonom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\sample_polinom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TLists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TMonom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\TPolinom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\base\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D4CAE9EC-D27C-3A7C-9E21-3F9CCBE98271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B2AA231-47DD-382E-8273-8F58E99D16E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
