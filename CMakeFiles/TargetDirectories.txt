@@ -1,0 +1,5 @@
+C:/Users/Ol/Desktop/Frolova.O/mp2-lab5-polynomials/Polynomials/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ol/Desktop/Frolova.O/mp2-lab5-polynomials/Polynomials/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Ol/Desktop/Frolova.O/mp2-lab5-polynomials/Polynomials/base/CMakeFiles/TPolinom.dir
+C:/Users/Ol/Desktop/Frolova.O/mp2-lab5-polynomials/Polynomials/base_test/CMakeFiles/polinom_test.dir
+C:/Users/Ol/Desktop/Frolova.O/mp2-lab5-polynomials/Polynomials/gtest/CMakeFiles/gtest.dir

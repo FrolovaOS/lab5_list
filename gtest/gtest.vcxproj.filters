@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\gtest\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ol\Desktop\Frolova.O\mp2-lab5-polynomials\Polynomials\gtest\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8B2AA231-47DD-382E-8273-8F58E99D16E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
